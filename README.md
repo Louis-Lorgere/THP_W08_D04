@@ -1,2 +1,2 @@
-# THP_W08_D04
+# JAVASCRIPT Exos Basiques
 Petit taff de JS
